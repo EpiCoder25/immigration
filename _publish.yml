@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e92cb888-1831-4519-b1b9-fcef74316c4f
+      url: 'https://ethanx25.quarto.pub/immigration'
